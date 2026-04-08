@@ -6,7 +6,6 @@ This diary covers my learning progress during the last 1.5 months of Android dev
 
 ---
 
-## Month 1
 
 **Date:** 2026-03-03  
 Started learning Android Studio interface and explored the project structure. I learned where Java files, XML layout files, and Gradle files are located.
