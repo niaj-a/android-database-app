@@ -2,7 +2,7 @@
 
 ## Project: Software Development Skills: Mobile
 
-This diary covers my learning progress during the last 1.5 months of Android development practice. I worked on this project regularly and learned the basics of Android Studio, UI components, database handling, and activity navigation.
+This diary covers my learning progress during the last 1.5 months of Android development practice. I worked on this project regularly and learned the basics of Android Studio.
 
 ---
 
